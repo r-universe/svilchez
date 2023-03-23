@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cpd"]
+	path = cpd
+	url = https://github.com/cran/cpd
+	shallow = true
+	registered = true
+[submodule "GWRM"]
+	path = GWRM
+	url = https://github.com/cran/GWRM
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.cpd"]
+	path = RcmdrPlugin.cpd
+	url = https://github.com/cran/RcmdrPlugin.cpd
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.GWRM"]
+	path = RcmdrPlugin.GWRM
+	url = https://github.com/cran/RcmdrPlugin.GWRM
+	shallow = true
+	registered = true
