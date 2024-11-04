@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ConfMatrix"]
+	path = ConfMatrix
+	url = https://github.com/cran/ConfMatrix
 [submodule "GWRM"]
 	path = GWRM
 	url = https://github.com/cran/GWRM
