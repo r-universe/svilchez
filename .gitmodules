@@ -8,9 +8,6 @@
 [submodule "GWRM"]
 	path = GWRM
 	url = https://github.com/cran/GWRM
-[submodule "RcmdrPlugin.GWRM"]
-	path = RcmdrPlugin.GWRM
-	url = https://github.com/cran/RcmdrPlugin.GWRM
 [submodule "RcmdrPlugin.cpd"]
 	path = RcmdrPlugin.cpd
 	url = https://github.com/cran/RcmdrPlugin.cpd
